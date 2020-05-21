@@ -1,6 +1,4 @@
-# DRAFT Main Governance Document
-
-Note that this document is a work-in-progress draft, and has not been adopted by the bqplot project yet.
+# Main Governance Document
 
 ## The Project
 
@@ -71,25 +69,33 @@ When a Steering Council member term ends, or when they leave the SC, a new SC wi
 
 The Steering Council will have regular meetings at least monthly. Council members should participate in 3/4 of the regular meetings, and engage regularly in discussions and offline votes on the Steering Council mailing list.
 
-If a Council member becomes inactive in the project for a period of one year, they will be considered for removal from the Council.
+If a Council member becomes inactive in the project for a long period of time, they may be considered for removal from the Council. Before removal, the inactive Member will be approached by the other members of the Council to see if they plan on returning to active participation. If not they will be removed immediately upon a Council
+vote.
 
-We worked through to here
+If they plan on returning to active participation soon, they will be given a grace period of one year. If they don’t return to active participation within that time period they will be removed by vote of the Council without further grace period. All former Council members can be considered for membership again at any time in the future, like any other Project Contributor.
 
----
+Retired Council members will be listed on the project website, acknowledging the period during which they were active in the Council.
 
-If a Council member becomes inactive in the project for a period of one year,
-they will be considered for removal from the Council. Before removal, inactive
-Member will be approached by the BDFL to see if they plan on returning to
-active participation. If not they will be removed immediately upon a Council
-vote. If they plan on returning to active participation soon, they will be
-given a grace period of one year. If they don’t return to active participation
-within that time period they will be removed by vote of the Council without
-further grace period. All former Council members can be considered for
-membership again at any time in the future, like any other Project Contributor.
-Retired Council members will be listed on the project website, acknowledging
-the period during which they were active in the Council.
-
-The Council reserves the right to eject current Members, other than the BDFL,
-if they are deemed to be actively harmful to the project’s well-being, and
+The Council reserves the right to eject current Members, if they are deemed to be actively harmful to the project’s well-being, and
 attempts at communication and conflict resolution have failed.
+
+#### Conflict of interest
+
+It is expected that the Council Members will be employed at a wide range of companies, universities and non-profit organizations. 
+
+Because of this, it is possible that Members will have a range of interests related to the project, and possibly conflicts of interests. Such conflict of interests include, but are not limited to:
+
+- Financial interests, such as investments, employment, or contracting work, outside of The Project that may influence their work on The Project.
+- Access to proprietary information of their employer that could potentially leak into their work with the Project.
+- An issue where the person privately gains an advantage from The Project resources, but The Project has no gain or suffers a disadvantage.
+
+All members of the Council shall disclose to the rest of the Council any interest they may have as it relates to the project. The council will evaluate whether it constitutes a conflict. Members with a conflict of interest in a particular issue may participate in Council discussions on that issue, but must recuse themselves from voting on the issue.
+
+#### Private communications of the Council
+
+Unless specifically required, all Council discussions and activities will be public and done in collaboration and discussion with the Project Contributors and Community. The Council will have a private mailing list that will be used sparingly and only when a specific matter requires privacy. When private communications and decisions are needed, the Council will do its best to summarize those to the Community after eliding personal/private/sensitive information that should not be posted to the public internet.
+
+## Institutional Partners and Funding
+
+The Steering Council is the primary leadership for the project. No outside institution, individual or legal entity has the ability to own, control, usurp or influence the project other than by participating in the Project as Contributors and Council Members. However, because institutions are the primary funding mechanism for the project, it is important to formally acknowledge institutional participation in the project. Such institutions are Institutional Partners. Institutional Partners include recognized legal entities that employ at least one Steering Council Member participating in Council work as part of their official duties at the Institutional Partner.
 
