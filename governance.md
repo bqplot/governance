@@ -1,4 +1,7 @@
-# Main Governance Document
+
+# DRAFT Main Governance Document
+
+Note that this document is a work-in-progress draft, and has not been adopted by the bqplot project yet. 
 
 ## The Project
 
