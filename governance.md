@@ -102,3 +102,32 @@ Unless specifically required, all Council discussions and activities will be pub
 
 The Steering Council is the primary leadership for the project. No outside institution, individual or legal entity has the ability to own, control, usurp or influence the project other than by participating in the Project as Contributors and Council Members. However, because institutions are the primary funding mechanism for the project, it is important to formally acknowledge institutional participation in the project. Such institutions are Institutional Partners. Institutional Partners include recognized legal entities that employ at least one Steering Council Member participating in Council work as part of their official duties at the Institutional Partner.
 
+## Changing the Governance Documents
+
+Changes to the governance documents are submitted via a GitHub pull
+request to The Project's governance documents GitHub repository at
+[https://github.com/bqplot/governance](https://github.com/bqplot/governance).
+There are two phases to the process:
+
+**The discussion phase** begins when the person first opens a pull-request.
+During this time, *the pull-request must be in a draft state*. The pull
+request is refined in response to public comment and review, with the goal
+being consensus in the community.
+
+The pull request author may *call a vote* when they believe enough feedback
+and iteration has occurred. This is triggered by moving the pull request from
+the *draft state* to an *active state*. This triggers the voting phase.
+
+**The voting phase** begins when the PR enters an active state. The proposed
+changes in the pull request are frozen, and may not be substantively modified
+after voting has begun. During the voting phase, the Steering Council votes on
+whether the changes are ratified and the pull request merged (accepting the
+proposed changes) or that the pull request be closed without merging
+(rejecting the proposed changes).
+
+All votes are limited in time to 4 weeks after the voting phase begins. At the
+end of 4 weeks, the proposal passes if at least 80% of the Steering Council
+has voted and 2/3 of the votes are in favor; otherwise the proposal does not
+pass. Prior to the four-week limit, if at least 80% of the Steering Council
+has voted in favor, the proposal passes. A council member may abstain from
+voting, which counts towards the 80% quorum requirement.
