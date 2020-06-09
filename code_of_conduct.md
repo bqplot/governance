@@ -143,7 +143,7 @@ report, we will take appropriate action.
 <!-- For information on enforcement, please view the [*Enforcement
 Manual*](enforcement). -->
 
-Original text courtesy of the [*Speak
+Original text courtesy of [Project Jupyter](https://github.com/jupyter/governance/blob/3785332602464a85b912479a607b4cd595e0f17a/conduct/code_of_conduct.md), which gives credit to the [*Speak
 Up!*](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html)
 and [*Django*](https://www.djangoproject.com/conduct) Projects,
 modified by Bqplot.  We are grateful to those projects for contributing these materials under open licensing terms for us to easily reuse.
