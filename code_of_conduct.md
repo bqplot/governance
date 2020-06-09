@@ -129,7 +129,7 @@ If you believe someone is violating the code of conduct, please report this in
 a timely manner. Code of conduct violations reduce the value of the community
 for everyone and we take them seriously.
 
-You can file a report by emailing [EMAIL](EMAIL) or by filing out [this form](GOOGLE FORM).
+You can file a report by emailing [EMAIL](EMAIL) or by filling out [this form](GOOGLE FORM).
 For more details or information on reporting in-person at an event, please see our
 Reporting Guidelines.
 
