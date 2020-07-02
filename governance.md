@@ -1,7 +1,9 @@
 
-# DRAFT Main Governance Document
+# BQplot Main Governance Document
 
-Note that this document is a work-in-progress draft, and has not been adopted by the bqplot project yet. 
+The official version of this document, along with a list of individuals and institutions in the roles defined in the sections below, is contained in The Project Governance Repository at:
+
+https://github.com/bqplot/governance
 
 ## The Project
 
@@ -34,65 +36,61 @@ The Project leadership consists of a Steering Council.
 ### Steering Council
 
 
-The Project will have a Steering Council that consists of Project Contributors who have produced contributions that are substantial in quality and quantity, and sustained over at least one year. The overall role of the Council is to ensure, through working taking input from the Community, the long-term well-being of the project, both technically and as a community.
+The Project will have a Steering Council that consists of Project Contributors who have produced contributions that are substantial in quality and quantity, and sustained over at least one year. The overall role of the Council is to ensure, through working and taking input from the Community, the long-term well-being of the project, both technically and as a community.
 
-During the everyday project activities, council members participate in discussions, code review and other project activities as peers with all other Contributors and the Community. In these everyday activities, Council Members do not have any special power or privilege through their membership on the Council. Most day-to-day activities do not block on the steering council. However, it is expected that because of the quality and quantity of their contributions and their expert knowledge, Council Members will provide useful guidance, both technical and in terms of project direction, to potentially less experienced contributors.
+During the day-to-day Project activities, Council Members participate in discussions, code review and other Project activities as peers with all other Contributors and the Community. In these day-to-day activities, Council Members do not have any special power or privilege through their membership on the Council. Most day-to-day activities do not block on the Steering Council. However, it is expected that because of the quality and quantity of their contributions and their expert knowledge, Council Members will provide useful guidance, both technical and in terms of Project direction, to potentially less experienced contributors.
 
 The Steering Council and its Members play a special role in certain situations. In particular, the Council may:
 
 - Make decisions about the overall scope, vision and direction of the project.
 - Make decisions about strategic collaborations with other organizations or individuals.
 - Develop funding sources and spending money.
-
 - Make decisions when regular community discussion does not produce consensus on an issue in a reasonable time frame.
 - Mediate significant conflict between community participants regarding the direction of the project
 - Resolve code of conduct issues
-- Grant or revoke privileges (e.g., releasing, committing, triaging) to Project contributors.
-- Mentor Project contributors
+- Grant or revoke privileges (e.g., releasing, committing, triaging) to Project Contributors.
+- Mentor Project Contributors
+- Make decisions on major architectural or backward-incompatible changes, as well as major releases of The Project.
 
-- Make decision on major architectural or backward-incompatible changes, as well as major releases of the project.
-
-The Steering Committee may delegate some of the above responsibilities to other Project contributors or committees.
+The Steering Council may delegate some of the above responsibilities to other Project Contributors or committees.
 
 ### Council membership
 
 #### Eligibility
 
-To become eligible for being a Steering Council Member an individual must be a Project Contributor who has produced contributions that are substantial in quality and quantity, and sustained over at least one year. Potential Council Members are nominated by existing Council members and voted upon by the existing Council. Based on a successful vote, the newly elected Member is invited to serve in that capacity. The Council is initially selected from the set of existing Core Developers who, as of 2020, have been significantly active over the last year.
+To become eligible for being a Steering Council Member, an individual must be a Project Contributor who has produced contributions that are substantial in quality and quantity, and sustained over at least one year. Potential Council Members are nominated by existing Council Members and voted upon by the existing Council. Based on a successful vote, the newly elected Member is invited to serve in that capacity. The Council is initially selected from the set of existing Core Developers who, as of 2020, have been significantly active over the last year.
 
-When considering potential Members, the Council will look at candidates with a comprehensive view of their contributions. This will include but is not limited to code, code review, infrastructure work, mailing list and chat participation, community help/building, education and outreach, design work, etc. We are deliberately not setting arbitrary quantitative metrics (like “100 commits in this repo”) to avoid encouraging behavior that plays to the metrics rather than the project’s overall well-being. We want to encourage a diverse array of backgrounds, viewpoints and talents in our team, which is why we explicitly do not define code as the sole metric on which council membership will be evaluated.
+When considering potential Members, the Council will look at candidates with a comprehensive view of their contributions. This will include, but is not limited to, code, code review, infrastructure work, mailing list and chat participation, community help/building, education and outreach, design work, etc. We are deliberately not setting arbitrary quantitative metrics (like “100 commits in this repo”) to avoid encouraging behavior that plays to the metrics rather than The Project’s overall well-being. We want to encourage a diverse array of backgrounds, viewpoints and talents in our team, which is why we explicitly do not define code as the sole metric on which Council membership will be evaluated.
 
 #### Term
 
-Council membership terms last two years. Initial terms will be staggered so that there is a new selection of steering council members every year. Council members can serve multiple consecutive terms.
+Council membership terms last two years. Initial terms will be staggered so that there is a new selection of Steering Council Members every year. Council Members can serve multiple consecutive terms.
 
-When a Steering Council member term ends, or when they leave the SC, a new SC will be nominated.
+When a Steering Council Member term ends, or when they leave the Steering Council, a new Steering Council will be nominated.
 
 #### Expectations
 
-The Steering Council will have regular meetings at least monthly. Council members should participate in 3/4 of the regular meetings, and engage regularly in discussions and offline votes on the Steering Council mailing list.
+The Steering Council will have regular meetings at least monthly. Council Members should participate in 3/4 of the regular meetings, and engage regularly in discussions and offline votes on the Steering Council mailing list.
 
-If a Council member becomes inactive in the project for a long period of time, they may be considered for removal from the Council. Before removal, the inactive Member will be approached by the other members of the Council to see if they plan on returning to active participation. If not they will be removed immediately upon a Council
-vote.
+If a Council member becomes inactive in The Project for a long period of time, they may be considered for removal from the Council. Before removal, the inactive Member will be approached by the other members of the Council to see if they plan on returning to active participation. If not, they will be removed immediately upon a Council vote.
 
-If they plan on returning to active participation soon, they will be given a grace period of one year. If they don’t return to active participation within that time period they will be removed by vote of the Council without further grace period. All former Council members can be considered for membership again at any time in the future, like any other Project Contributor.
+If they plan on returning to active participation soon, they will be given a grace period of one year. If they do not return to active participation within that time period, they will be removed by vote of the Council without further grace period. All former Council Members can be considered for membership again at any time in the future, like any other Project Contributor.
 
-Retired Council members will be listed on the project website, acknowledging the period during which they were active in the Council.
+Retired Council Members will be listed on the project website, acknowledging the period during which they were active in the Council.
 
-The Council reserves the right to eject current Members, if they are deemed to be actively harmful to the project’s well-being, and
-attempts at communication and conflict resolution have failed.
+The Council reserves the right to eject current Members, if they are deemed to be actively harmful to the project’s well-being and attempts at communication and conflict resolution have failed.
 
 #### Conflict of interest
 
-It is expected that the Council Members will be employed at a wide range of companies, universities and non-profit organizations. 
+It is expected that the Council Members will be employed at a wide range of companies, universities and non-profit organizations.
 
 Because of this, it is possible that Members will have a range of interests related to the project, and possibly conflicts of interests. Such conflict of interests include, but are not limited to:
 
 - Financial interests, such as investments, employment, or contracting work, outside of The Project that may influence their work on The Project.
-- Access to proprietary information of their employer that could potentially leak into their work with the Project.
+- Access to proprietary information of their employer that could potentially leak into their work with The Project.
 - An issue where the person privately gains an advantage from The Project resources, but The Project has no gain or suffers a disadvantage.
 
-All members of the Council shall disclose to the rest of the Council any interest they may have as it relates to the project. The council will evaluate whether it constitutes a conflict. Members with a conflict of interest in a particular issue may participate in Council discussions on that issue, but must recuse themselves from voting on the issue.
+All members of the Council shall disclose to the rest of the Council any interest they may have as it relates to the project. The Council will evaluate whether it constitutes a conflict. Members with a conflict of interest in a particular issue may participate in Council discussions on that issue, but must recuse themselves from voting on the issue.
 
 #### Private communications of the Council
 
