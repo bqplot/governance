@@ -1,12 +1,10 @@
 # Bqplot Code of Conduct - Enforcement Manual
 
-This is the enforcement manual followed by Bqplot's Steering Committee, 
-
-It is used when we respond to an incident to make sure we are consistent and fair.
+This is the enforcement manual followed by Bqplot. It is used when we respond to an incident to make sure we are consistent and fair.
 
 ## The Code of Conduct Committee
 
-All responses to reports of conduct violations will be managed by the Bqplot Steering Committee ("the committee").
+All responses to reports of conduct violations will be managed by the Bqplot Steering Council, which serves as the Bqplot Code of Conduct Committee ("the Committee").
 
 If a Code of Conduct report involves a member of the Steering Council, that member will not participate in the investigation or any decisions related to that report.
 
@@ -56,11 +54,11 @@ The Code of Conduct Committee will keep the following values and guidelines in m
 
 We value the health of the community over individual contributions.
 
-## How the committee will respond to incidents
+## How the Committee will respond to incidents
 
-When the committee is made aware of an incident, they will promptly reply to the reporter to confirm receipt.
+When the Committee is made aware of an incident, they will promptly reply to the reporter to confirm receipt.
 
-The committee will then review the incident and determine, to the best of their ability:
+The Committee will then review the incident and determine, to the best of their ability:
 
 * What happened.
 * Whether this event constitutes a Code of Conduct violation.
@@ -73,34 +71,34 @@ group's deliberations will be recorded and retained (e.g. email discussions, mee
 
 ## Resolutions
 
-The Committee will strive to achieve a quick resolution of reported issues. The committee must agree on a resolution by consensus. Possible responses may include:
+The Committee will strive to achieve a quick resolution of reported issues. The Committee must agree on a resolution by consensus. Possible responses may include:
 
 * Taking no further action
   - if we determine no violations have occurred.
-  - if the matter has been resolved publicly while the committee was
+  - if the matter has been resolved publicly while the Committee was
     considering responses.
 * Remind publicly, and point out that some behavior/actions/language have been
   judged inappropriate and why in the current context, or can be hurtful to
   some people, requesting the community to self-adjust.
-* A private reprimand from the committee to the individual(s) involved. In this
+* A private reprimand from the Committee to the individual(s) involved. In this
   case, the group chair will deliver that reprimand to the individual(s) over
   email, cc'ing the group.
-* A public reprimand. In this case, the committee chair will deliver that
+* A public reprimand. In this case, the Committee chair will deliver that
   reprimand in the same venue that the violation occurred, within the limits of
   practicality. E.g., the original mailing list for an email violation, but
   for a chat room discussion where the person/context may be gone, they can be
   reached by other means. The group may choose to publish this message
   elsewhere for documentation purposes.
-* A "mutually agreed upon hiatus" where the committee asks the individual to
+* A "mutually agreed upon hiatus" where the Committee asks the individual to
   temporarily refrain from community participation. If the individual chooses
-  not to take a temporary break voluntarily, the committee may issue a
+  not to take a temporary break voluntarily, the Committee may issue a
   "mandatory cooling off period".
 * A permanent or temporary ban from some or all bqplot spaces (mailing lists,
   chat channels, etc.).
 
-The committee has the option to publish official public statements if judged necessary, but generally will pursue resolutions confidentially.
+The Committee has the option to publish official public statements if judged necessary, but generally will pursue resolutions confidentially.
 
 ## Conflicts of Interest
 
-In the event of a conflict of interest, a committee member must immediately
+In the event of a conflict of interest, a Committee member must immediately
 notify the other members, and recuse themselves if necessary.

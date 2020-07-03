@@ -31,8 +31,7 @@ work, there is urgency or risk to someone, nobody is intervening publicly and
 you don't feel comfortable speaking in public, etc.  For these or other
 reasons, structured follow-up may be necessary and here we provide the means
 for that: we welcome reports by emailing
-[*EMAIL*]() or by filling out [this
-form](GOOGLE FORM).
+[bqplot-steering@googlegroups.com](mailto:bqplot-steering@googlegroups.com).
 
 This code applies equally to founders, developers, mentors and new community
 members, in all spaces managed by Bqplot. This
@@ -45,8 +44,8 @@ participate within them.
 
 By embracing the following principles, guidelines and actions to follow or
 avoid, you will help us make Bqplot a welcoming and productive community. Feel
-free to contact the Steering Committee at
-[*EMAIL*](EMAIL) with any questions.
+free to contact the Steering Council at
+[bqplot-steering@googlegroups.com](mailto:bqplot-steering@googlegroups.com) with any questions.
 
 1. **Be friendly and patient**.
 
@@ -120,7 +119,7 @@ or other local personnel that are present.
 
 In situations where an individual community member acts unilaterally,
 they must inform the Code of Conduct committee as soon as possible,
-by emailing [EMAIL](EMAIL) within 24 hours.
+by emailing [bqplot-steering@googlegroups.com](mailto:bqplot-steering@googlegroups.com) within 24 hours.
 
 
 ## Reporting
@@ -129,13 +128,9 @@ If you believe someone is violating the code of conduct, please report this in
 a timely manner. Code of conduct violations reduce the value of the community
 for everyone and we take them seriously.
 
-You can file a report by emailing [EMAIL](EMAIL) or by filling out [this form](GOOGLE FORM).
+You can file a report by emailing [bqplot-steering@googlegroups.com](mailto:bqplot-steering@googlegroups.com).
 For more details or information on reporting in-person at an event, please see our
 Reporting Guidelines.
-
-The online form gives you the option to keep your report anonymous or request
-that we follow up with you directly. While we cannot follow up on an anonymous
-report, we will take appropriate action.
 
 
 ## Enforcement
